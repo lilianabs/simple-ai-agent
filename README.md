@@ -4,6 +4,7 @@ This repo contains sample code for creating basic agents. It contains the follow
 
 - [Basic](basic.py): An agent that answers questions about the weather.
 - [Generate users](generate_users.py): An agent that generates fake users.
+- [React agent](react_agent.py): A react angent from the post [Building a ReAct Agent with Langgraph: A Step-by-Step Guide](https://medium.com/@umang91999/building-a-react-agent-with-langgraph-a-step-by-step-guide-812d02bafefa).
 
 To get started using this project, do the following:
 
